@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.button-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  margin: 10px;
+  padding: 30px;
+  font-size: larger;
+  box-shadow: 2px 2px 2px grey;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.input-box {
+  border: 1px solid black;
+  border-radius: 2px;
+  font-size: large;
+  width: 200px;
+  margin: auto;
+  text-align: left;
+}
+
+.output-box {
+  color: gray;
+  padding: 10px;
+}
